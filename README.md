@@ -9,7 +9,7 @@
 	- model testing and output of results
 	
 - best_val_loss.pth contains a reference trained model which 
-acieved MAE of 1.32 on Test set
+achieved MAE of 1.32 on Test set
 
 - test_pred.csv is the prediction outputs
 
